@@ -6,5 +6,5 @@ print("------------------------------------------------------------")
 reais = float(input("Qauntos reais voçê ganha por hora? "))
 print("------------------------------------------------------------")
 salario = horas * reais
-print("Seu salrio é de: ", salario)
+print("Seu salario é de: ", salario)
 print("------------------------------------------------------------")
