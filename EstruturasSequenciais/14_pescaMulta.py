@@ -19,4 +19,4 @@ if pesomaximo < excesso :
     print("O limite de 50kg foi ultrapassado a taxa a pagar é de: ", multa)
 else:
     print("------------------------------------------------------------")
-    print("O peso deo peixe esta dentro do limite ", pesopeixe)
+    print("O peso do peixe esta dentro do limite ", pesopeixe)
